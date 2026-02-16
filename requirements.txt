@@ -1,5 +1,8 @@
 streamlit
-FinanceDataReader
-google-generativeai
+finance-datareader
 yfinance
+google-generativeai
 plotly
+beautifulsoup4
+lxml
+requests
